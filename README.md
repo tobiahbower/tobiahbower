@@ -2,10 +2,6 @@ Tobiah Bower
 - University of Central Florida
 - Freshman - Electrical Engineering
 
-Interests:
-- Web design
-- Digital Systems
-
 Contact
 - Email: tobiahjbower@gmail.com
 - Linkedin: https://www.linkedin.com/in/tobiah-bower/
